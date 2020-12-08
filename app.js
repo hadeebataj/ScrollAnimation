@@ -5,7 +5,7 @@ const text = intro.querySelector('h1');
 const section = document.querySelector('section');
 const end = section.querySelector('h1');
 
-//SCROLLMAGIC
+//SCROLL
 const controller = new ScrollMagic.Controller();
 
 //Scenes
